@@ -1,0 +1,23 @@
+_repo: Take-Me-for-a-Ride--Coming-of-Age-in-a-Destructive-Cult_162
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laxer, Mark E.
+    gutenberg_agent_id: '101'
+    url: http://www.gutenberg.org/2009/agents/101
+description: ''
+gutenberg_issued: '1994-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '162'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Lenz, Frederick, 1950-'
+- !lcc 'BL'
+- !lcsh 'Cults -- United States'
+- GITenberg
+title: 'Take Me for a Ride: Coming of Age in a Destructive Cult'
+url: http://www.gutenberg.org/ebooks/162

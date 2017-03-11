@@ -1,11 +1,16 @@
 _repo: Take-Me-for-a-Ride--Coming-of-Age-in-a-Destructive-Cult_162
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Laxer, Mark E.
     gutenberg_agent_id: '101'
     url: http://www.gutenberg.org/2009/agents/101
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/162#Take-Me-for-a-Ride--Coming-of-Age-in-a-Destructive-Cult
 gutenberg_issued: '1994-09-01'
 gutenberg_type: Text
 identifiers:
